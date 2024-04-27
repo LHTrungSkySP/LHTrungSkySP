@@ -1,31 +1,10 @@
 ### Hi there 👋
 
 ### Top languages:
-
-<div>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tattrung15&title_color=FD428E&text_color=ffffff&bg_color=20232a&langs_count=10&layout=compact&hide_border=true" />
-  </a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHTrungSkySP&layout=compact&langs_count=20&hide=html,css)](https://github.com/LHTrungSkySP/github-readme-stats)
 
 ### 🔨 Languages and Tools:
 
-<a href="https://git-scm.com/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"
-    align="left"
-    alt="git"
-    height="42px"
-  />
-</a>
-<a href="https://docs.microsoft.com/en-us/cpp/c-language/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg"
-    align="left"
-    alt="c-language"
-    height="42px"
-  />
-</a>
 <a href="https://docs.microsoft.com/vi-vn/cpp/cpp/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg"
@@ -42,40 +21,6 @@
     height="42px"
   />
 </a>
-<a href="https://docs.oracle.com/en/java/" target="_blank"
-  ><img
-    align="left"
-    alt="Java"
-    height="42px"
-    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"
-/></a>
-<a href="https://developer.android.com" target="_blank">
-  <img
-    align="left"
-    alt="Android"
-    height="42px"
-    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"
-  />
-</a>
-<a href="https://spring.io/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/spring/spring.svg"
-    align="left"
-    alt="spring"
-    height="42px"
-  />
-</a>
-<a
-  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-  target="_blank"
->
-  <img
-    align="left"
-    alt="JavaScript"
-    height="42px"
-    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"
-  />
-</a>
 <a href="https://www.typescriptlang.org/" target="_blank"
   ><img
     align="left"
@@ -83,36 +28,6 @@
     height="42px"
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"
 /></a>
-<a href="https://nodejs.org" target="_blank"
-  ><img
-    align="left"
-    alt="Node.js"
-    height="42px"
-    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"
-/></a>
-<a href="https://nestjs.com/" target="_blank"
-  ><img
-    align="left"
-    alt="nestjs.js"
-    height="42px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"
-/></a>
-<a href="https://devdocs.io/html/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"
-    align="left"
-    alt="html"
-    height="42px"
-  />
-</a>
-<a href="https://devdocs.io/css/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"
-    align="left"
-    alt="css"
-    height="42px"
-  />
-</a>
 <a href="https://sass-lang.com/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sass/sass.svg"
@@ -134,28 +49,6 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"
     align="left"
     alt="jquery"
-    height="42px"
-  />
-</a>
-<a href="https://reactjs.org/" target="_blank">
-  <img
-    align="left"
-    alt="React"
-    height="42px"
-    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"
-/></a>
-<a href="https://redux.js.org/" target="_blank">
-  <img
-    align="left"
-    alt="redux"
-    height="42px"
-    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/redux/redux.svg"
-/></a>
-<a href="https://material-ui.com/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/material-ui/material-ui.svg"
-    align="left"
-    alt="material-ui"
     height="42px"
   />
 </a>
@@ -202,14 +95,6 @@
     height="42px"
   />
 </a>
-<a href="https://yarnpkg.com/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"
-    align="left"
-    alt="yarnpkg"
-    height="42px"
-  />
-</a>
 <a href="https://www.docker.com/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/docker/docker.svg"
@@ -223,14 +108,6 @@
     src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/angular/angular.svg"
     align="left"
     alt="angular"
-    height="42px"
-  />
-</a>
-<a href="https://nextjs.org/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
-    align="left"
-    alt="nextjs"
     height="42px"
   />
 </a>
